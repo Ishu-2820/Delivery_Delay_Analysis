@@ -212,23 +212,22 @@ delhivery-logistics-analysis/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## 📄 Sample
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+PowerBi Screenshot sample :-[https://github.com/Ishu-2820/Delivery_Delay_Analysis/blob/main/dilveray%20dashborad.png]
 
 ## 👥 Author
 
-**[Your Name]**
-- Data Science Intern
+**[Ishika Kumari]**
+- Data Analytics Intern 
 - Location: Bihar, India
-- Specialization: Logistics Analytics & Supply Chain Optimization
 
 ## 📞 Contact
 
 For questions, feedback, or collaboration opportunities:
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- GitHub: [your-github-profile]
+- Email: [dk321569@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/ishika-kumari-21973732b/
+- GitHub: [https://github.com/Ishu-2820]
 
 ## 🙏 Acknowledgments
 
