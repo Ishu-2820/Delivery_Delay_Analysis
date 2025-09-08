@@ -212,9 +212,9 @@ delhivery-logistics-analysis/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 Sample
+## 📄 Screenshots / Demo
 
-PowerBi Screenshot sample :-[https://github.com/Ishu-2820/Delivery_Delay_Analysis/blob/main/dilveray%20dashborad.png]
+Sample :  ![Dashboard_Preview].(https://github.com/Ishu-2820/Delivery_Delay_Analysis/blob/main/dilveray%20dashborad.png)
 
 ## 👥 Author
 
