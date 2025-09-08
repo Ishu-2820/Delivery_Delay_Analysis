@@ -214,7 +214,7 @@ delhivery-logistics-analysis/
 
 ## 📄 Screenshots / Demo
 
-Sample :  ![Dashboard_Preview].(https://github.com/Ishu-2820/Delivery_Delay_Analysis/blob/main/dilveray%20dashborad.png)
+Sample :  ![Dashboard Preview].(https://github.com/Ishu-2820/Delivery_Delay_Analysis/blob/main/dilveray%20dashborad.png).
 
 ## 👥 Author
 
